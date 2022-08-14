@@ -24,4 +24,4 @@ Architecture
 
 ## Screenshot.
 
-<img src='https://github.com/quangpv/punk/blob/main/images/screenshot.png' width='300px'/>
+<img src='https://github.com/quangpv/punk-test-android/blob/main/images/screenshot.png' width='300px'/>
