@@ -26,10 +26,8 @@ class FilterBeerByIntervalCase(
         val from = query.getFrom()
         if (from != null) {
             if (!from.before(it)) error("To date should not be before from date")
-            query.setTo(it)
-        } else {
-            query.setTo(it)
         }
+        query.setTo(it)
         dateRange.post(createDateRange(query))
         if (from != null) query.requestRefresh()
     }
