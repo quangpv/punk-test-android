@@ -12,7 +12,7 @@ Position: Android Developer
 
 ## How to review source code
 
-The source code included in `src/main/java` folder
+The main source code included in `src/main/java` folder
 
 Architecture
 
@@ -23,6 +23,8 @@ Architecture
 5. `feature` include app feature.
 6. `widget` include app widget like custom view, dialog ...
 7. `exception` include definition of app exception.
+
+The source test included in `src/main/test/java` folder
 
 ## Screenshot.
 
